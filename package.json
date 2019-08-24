@@ -1,0 +1,25 @@
+{
+  "name": "vizhub-libraries",
+  "version": "1.0.0",
+  "description": "Index of libraries for use in VizHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datavis-tech/vizhub-libraries.git"
+  },
+  "keywords": [
+    "libraries",
+    "rollup",
+    "browser",
+    "packages"
+  ],
+  "author": "Curran Kelleher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datavis-tech/vizhub-libraries/issues"
+  },
+  "homepage": "https://github.com/datavis-tech/vizhub-libraries#readme"
+}
