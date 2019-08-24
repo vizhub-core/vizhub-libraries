@@ -32,6 +32,9 @@ module.exports = {
   'd3-transition': 'd3',
   'd3-voronoi': 'd3',
   'd3-zoom': 'd3',
+
   'react': 'React',
-  'react-dom': 'ReactDOM'
+  'react-dom': 'ReactDOM',
+
+  'three': 'THREE',
 };
