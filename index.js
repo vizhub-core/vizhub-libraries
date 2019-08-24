@@ -37,4 +37,9 @@ module.exports = {
   'react-dom': 'ReactDOM',
 
   'three': 'THREE',
+
+  'vega': 'vega',
+  'vega-embed': 'vegaEmbed',
+  'vega-lite': 'vl',
+  'vega-lite-api': 'vl',
 };
