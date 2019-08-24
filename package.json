@@ -1,6 +1,6 @@
 {
   "name": "vizhub-libraries",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Index of libraries for use in VizHub.",
   "main": "index.js",
   "scripts": {
