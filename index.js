@@ -42,4 +42,5 @@ module.exports = {
   'vega-embed': 'vegaEmbed',
   'vega-lite': 'vl',
   'vega-lite-api': 'vl',
+  'vega-tooltip': 'vegaTooltip',
 };
