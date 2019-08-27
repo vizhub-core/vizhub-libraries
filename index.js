@@ -40,7 +40,8 @@ module.exports = {
 
   'vega': 'vega',
   'vega-embed': 'vegaEmbed',
-  'vega-lite': 'vl',
+  'vega-lite': 'vegaLite',
   'vega-lite-api': 'vl',
   'vega-tooltip': 'vegaTooltip',
+  'vega-themes': 'vegaThemes',
 };
