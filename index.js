@@ -44,4 +44,5 @@ module.exports = {
   'vega-lite-api': 'vl',
   'vega-tooltip': 'vegaTooltip',
   'vega-themes': 'vegaThemes',
+  'vizhub-vega-lite-config': 'vizhubVegaLiteConfig'
 };
