@@ -35,6 +35,8 @@ module.exports = {
 
   'react': 'React',
   'react-dom': 'ReactDOM',
+  'react-dropdown-browser': 'ReactDropdown',
+  'react-dropdown': 'ReactDropdown',
 
   'three': 'THREE',
 
