@@ -49,4 +49,6 @@ module.exports = {
   'vizhub-vega-lite-config': 'vizhubVegaLiteConfig',
   
   'semiotic': 'Semiotic',
+  
+  'viz.js': 'Viz'
 };
