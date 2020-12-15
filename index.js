@@ -33,7 +33,7 @@ module.exports = {
   'd3-voronoi': 'd3',
   'd3-zoom': 'd3',
 
-  'react': 'React',
+  'react': {global: 'React', path: '/umd/react.production.min.js'},
   'react-dom': 'ReactDOM',
   'react-dropdown-browser': 'ReactDropdown',
   'react-dropdown': 'ReactDropdown',
